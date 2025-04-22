@@ -61,8 +61,8 @@ The ARCADE dataset contains medical images with annotations for stenosis detecti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/swin-stenosis-detection.git
-   cd swin-stenosis-detection
+   git clone https://github.com/sri-megha/arcade_swin_transformer.git
+   cd arcade_swin_transformer
    ```
 
 2. Install dependencies:
